@@ -1,4 +1,4 @@
-console.log("Hi u Master");
+console.log("Hi u A");
 
 function giveTwo() {
     return 2;
